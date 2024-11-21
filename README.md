@@ -35,6 +35,10 @@ acmeair-flightservice-java/Dockerfile.quarkus.native
 acmeair-flightservice-java/Dockerfile.quarkus.semeru
 ```
 
+### Build nginx
+```
+./build.nginx.sh
+```
 
 ### Build Quarkus Native images
 ```
